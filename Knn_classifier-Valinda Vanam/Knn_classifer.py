@@ -1,6 +1,5 @@
-# Your name :Valinda Vanam
-# Your UCM ID : 700703487
-# Certificate of Authenticity: “I certify that the codes/answers of this assignment are entirely my own work.”
+
+# Certificate of Authenticity: “I certify that the codes of this project are entirely my own work.”
 
 import sys
 
